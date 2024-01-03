@@ -62,8 +62,3 @@ body {
 	flex-basis: 400px;
 	filter: grayscale(0%) opacity(100%);
 }
-
-.img-box:active {
-	flex-basis: 400px;
-	filter: grayscale(0%) opacity(100%);
-}
